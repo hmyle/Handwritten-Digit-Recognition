@@ -1,8 +1,7 @@
 # Handwritten-Digit-Recognition
 <p align="center">
-  <img width="100" src="https://github.com/hmyle/Handwritten-Digit-Recognition/assets/116583355/61fd7acd-c89d-4fd1-bca9-101093a5afdb">
+  <img width="100" src="https://github.com/hmyle/Handwritten-Digit-Recognition/assets/116583355/01203172-b4ae-4655-a4b6-6fa8748b2182">
 </p>
-
 
 <p align="center">A Simple Machine Learning Project using Neural Network to recognize handwritten digit.</p>
 
